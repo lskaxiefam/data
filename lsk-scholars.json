@@ -3,7 +3,7 @@
     name: 'LSK',
     mode: 1,
     roninAddress: 'ronin:26691507bc8244ddc4b6a2b19f2685b94c550ba0',
-    team: ['plant:2301007', 'reptile:660471', 'beast:2045193'],
+    team: [],
     rate: 1,
     offsetDays: null,
     offsetSlp: 0
