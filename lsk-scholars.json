@@ -1,7 +1,8 @@
 [
   {
     name: 'LSK',
-    mode: 1,
+    team: 'LSK',
+    type: 0,
     roninAddress: 'ronin:26691507bc8244ddc4b6a2b19f2685b94c550ba0',
     team: [],
     rate: 1,
@@ -10,7 +11,8 @@
   },
   {
     name: 'Injoker',
-    mode: 0,
+    team: 'LSK',
+    type: 1,
     roninAddress: 'ronin:ddccc56fc5ba1b19f1975eac758f18b93c5e37c1',
     team: ['plant:2301007', 'reptile:660471', 'beast:2045193'],
     rate: null,
