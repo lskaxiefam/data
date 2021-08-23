@@ -12,9 +12,29 @@
   {
     name: 'Injoker',
     team: 'LSK',
-    type: 1,
+    type: 2,
     roninAddress: 'ronin:ddccc56fc5ba1b19f1975eac758f18b93c5e37c1',
     team: ['plant:2301007', 'reptile:660471', 'beast:2045193'],
+    rate: null,
+    offsetDays: null,
+    offsetSlp: 0
+  },
+  {
+    name: 'Iyaaa!',
+    team: 'LSK',
+    type: 2,
+    roninAddress: 'ronin:e270372e0cef4ef1c9a7b72ce8d1b1dbaf7de33d',
+    team: ['plant:500514', 'reptile:3511413', 'beast:464498'],
+    rate: null,
+    offsetDays: null,
+    offsetSlp: 0
+  },
+  {
+    name: 'Nelle',
+    team: 'LSK',
+    type: 1,
+    roninAddress: 'ronin:7724a30344e6017f6fd35b608e294f6a72d4b321',
+    team: ['plant:1944432', 'aqua:1722022', 'aqua:1713395'],
     rate: null,
     offsetDays: null,
     offsetSlp: 0
