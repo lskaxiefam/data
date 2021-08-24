@@ -4,7 +4,7 @@
     team: 'LSK',
     type: 0,
     roninAddress: 'ronin:26691507bc8244ddc4b6a2b19f2685b94c550ba0',
-    team: [],
+    axies: [],
     rate: 1,
     offsetDays: null,
     offsetSlp: 0
@@ -14,7 +14,7 @@
     team: 'LSK',
     type: 2,
     roninAddress: 'ronin:ddccc56fc5ba1b19f1975eac758f18b93c5e37c1',
-    team: ['plant:2301007', 'reptile:660471', 'beast:2045193'],
+    axies: ['plant:2301007', 'reptile:660471', 'beast:2045193'],
     rate: null,
     offsetDays: null,
     offsetSlp: 0
@@ -24,7 +24,7 @@
     team: 'LSK',
     type: 2,
     roninAddress: 'ronin:e270372e0cef4ef1c9a7b72ce8d1b1dbaf7de33d',
-    team: ['plant:500514', 'reptile:3511413', 'beast:464498'],
+    axies: ['plant:500514', 'reptile:3511413', 'beast:464498'],
     rate: null,
     offsetDays: null,
     offsetSlp: 0
@@ -34,7 +34,7 @@
     team: 'LSK',
     type: 1,
     roninAddress: 'ronin:7724a30344e6017f6fd35b608e294f6a72d4b321',
-    team: ['plant:1944432', 'aqua:1722022', 'aqua:1713395'],
+    axies: ['plant:1944432', 'aqua:1722022', 'aqua:1713395'],
     rate: null,
     offsetDays: null,
     offsetSlp: 0
@@ -44,7 +44,7 @@
     team: 'LSK',
     type: 1,
     roninAddress: 'ronin:3c8e77e2bf47676d2b4becd7717a9d597c8c450b',
-    team: ['plant:715964', 'aqua:618454', 'aqua:463929'],
+    axies: ['plant:715964', 'aqua:618454', 'aqua:463929'],
     rate: null,
     offsetDays: null,
     offsetSlp: 0
