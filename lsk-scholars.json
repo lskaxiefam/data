@@ -48,5 +48,295 @@
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
+  },
+  {
+    "name": "Sugar",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:80692f8b99025a0d89e0761766b8d1b45b5c8f0b",
+    "axies": ["plant:670835", "reptile:766964", "bug:770689"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Bee",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:a9e8010713620e43543c0b423e8613a95da5dca2",
+    "axies": ["plant:904727", "reptile:558430", "bug:772963"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Sneaky",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:22e0c67f4c3cfc2339ed84534e9a4e3cb3db897e",
+    "axies": ["plant:993339", "reptile:1007999", "beast:1104000"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Carnifex",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:6ed44d6c72db82928d4fbc8aefe3f20c6b6a73d5",
+    "axies": ["plant:904691", "reptile:823689", "aqua:921602"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "YATV",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:f2274fcf63ebf77acff7334091b1522d215769cd",
+    "axies": ["plant:944040", "reptile:1007973", "beast:1103981"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Kels",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:3f801744857114c7456f1c7bbdd90ad83b77209c",
+    "axies": ["plant:904799", "reptile:708178", "beast:3376275"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Scam",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:2aa8c8a6471494296883db018c95853d947e0b3f",
+    "axies": ["bug:475601", "bug:433554", "beast:824494"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Teta",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:9583520c58416350bfa36256a2ffc12a19af1ecf",
+    "axies": ["plant:904846", "reptile:558294", "aqua:558294"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Jeff",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:50254b0daacf9df0f5e1ed44f08ab78aa3014920",
+    "axies": ["plant:2301077", "reptile:2591118", "beast:2290325"],
+    "rate": null,
+    "offsetDays": 2,
+    "offsetSlp": 2285
+  },
+  {
+    "name": "Jpee",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:3da2037225c120d557154cf138142eed6a1ccaf3",
+    "axies": ["plant:1198535", "reptile:2245155", "mech:4096569"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Hobs",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:7239b5c3705a4964e21bdbfebf7147260ad7ea18",
+    "axies": ["plant:1100351", "reptile:4309462", "mech:4309070"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "JC",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:351cb756b59cbb4cffa34e33ca2a45a64edd28ac",
+    "axies": ["plant:1338973", "reptile:1008014", "bug:923385"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Leo",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:f97bf4c28d044d635f7b5a330ecc51de41180c6a",
+    "axies": ["plant:1944479", "reptile:1173905", "beast:1945075"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Darc",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:91913486cb5f0658127d50134001a9f4cd912b45",
+    "axies": ["plant:1338852", "reptile:731087", "beast:1395466"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Ned",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:384ad2727f4b2d27abcb16db92e307c839dfc3b3",
+    "axies": ["plant:1100259", "reptile:1944825", "beast:864419"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Disarm",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:4bbc1d58db20388f2bf45885ad745e07d684fc9d",
+    "axies": ["plant:1100276", "reptile:2591090", "beast:3508431"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Lucci",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:86b37216cd27a63217f19a6fd9f3a318c0d2a812",
+    "axies": ["plant:1338880", "reptile:1174101", "beast:591857"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Bok",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:87e2fa546cd879b4ee76de28e709f04dff759c4e",
+    "axies": ["plant:904751", "reptile:1944771", "beast:2290116"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Migz",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:180109c818d713d25696330cb3131ab222ae4254",
+    "axies": ["plant:1944522", "reptile:539996", "beast:3140961"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "El Gamma",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:92573984463ac548217c631813de72a79c99b59a",
+    "axies": ["plant:891996", "reptile:477902", "beast:3142869"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Raivervein",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:505331c0b11277935185e041c57ecf06da4ba3df",
+    "axies": ["plant:3139550", "reptile:2591093", "mech:2397717"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 1249
+  },
+  {
+    "name": "Chan",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:9eb44fcb27baa4ab3863d7e89793d10b8b04b2ca",
+    "axies": ["plant:3147604", "reptile:1944801", "beast:3140898"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 1283
+  },
+  {
+    "name": "Kuya Gobas",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:bcb19581bd1efdb529cfc23819fefb9e2ae761b7",
+    "axies": ["plant:3139589", "reptile:3511395", "mech:3339780"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Frauzt",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:d9f04dc2eb388590bc9e930cdd03beabbf1c68ab",
+    "axies": ["plant:4313750", "reptile:4309410", "mech:4308977"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "BlackMamba24",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:aa1f063e482d7dace161f64b80b6e9fdd9c78de0",
+    "axies": ["plant:4309944", "beast:3612937", "bird:3490016"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Overgrowth",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:f033af5b9eb9d608804f9e772e109ffd475ab009",
+    "axies": ["plant:3139620", "mech:3454277", "bird:3226227"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Chano",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:06cc0c130986ec6cc1369db47043d9a06dea8b6b",
+    "axies": ["plant:2078622", "reptile:2036182", "beast:3949243"],
+    "rate": null,
+    "offsetDays": 3,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Arrow",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:0a20fa3600098410f6c9fb0e56958c529b1edc58",
+    "axies": ["plant:4314700", "reptile:4309552", "mech:4309118"],
+    "rate": null,
+    "offsetDays": 8,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Grey",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:44b46cc43dccd750471abac6e08882ba478157f8",
+    "axies": ["plant:4156624", "reptile:3514629", "mech:3339847"],
+    "rate": null,
+    "offsetDays": 8,
+    "offsetSlp": 0
   }
 ]
