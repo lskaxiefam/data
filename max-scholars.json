@@ -17,7 +17,7 @@
     "axies": ["plant:1100494", "reptile:496853", "beast:465790"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 0
+    "offsetSlp": 1415
   },
   {
     "name": "MushRoom",
@@ -27,7 +27,7 @@
     "axies": ["plant:1338835", "aqua:2937820", "bird:2041923"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 0
+    "offsetSlp": 1434
   },
   {
     "name": "Jeirel",
