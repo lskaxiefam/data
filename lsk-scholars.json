@@ -126,7 +126,7 @@
     "roninAddress": "ronin:9583520c58416350bfa36256a2ffc12a19af1ecf",
     "axies": ["plant:904846", "reptile:558294", "aqua:558294"],
     "rate": null,
-    "offsetDays": null,
+    "offsetDays": 3,
     "offsetSlp": 0
   },
   {
@@ -136,7 +136,7 @@
     "roninAddress": "ronin:50254b0daacf9df0f5e1ed44f08ab78aa3014920",
     "axies": ["plant:2301077", "reptile:2591118", "beast:2290325"],
     "rate": null,
-    "offsetDays": 2,
+    "offsetDays": 3,
     "offsetSlp": 2285
   },
   {
