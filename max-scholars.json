@@ -36,7 +36,7 @@
     "roninAddress": "ronin:0136a6d130427299a709ee035cdb06391f2c0423",
     "axies": ["plant:4109706", "reptile:1322502", "mech:1146014"],
     "rate": null,
-    "offsetDays": 18,
+    "offsetDays": 3,
     "offsetSlp": 0
   },
   {
@@ -46,7 +46,7 @@
     "roninAddress": "ronin:aa66214361e8556567e1a894a2e9be0082c1802d",
     "axies": ["plant:4109754", "reptile:2369548", "mech:3436270"],
     "rate": null,
-    "offsetDays": 18,
+    "offsetDays": 3,
     "offsetSlp": 0
   }
 ]
