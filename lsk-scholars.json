@@ -10,16 +10,6 @@
     "offsetSlp": 0
   },
   {
-    "name": "Injoker",
-    "team": "LSK",
-    "type": 2,
-    "roninAddress": "ronin:ddccc56fc5ba1b19f1975eac758f18b93c5e37c1",
-    "axies": ["plant:2301007", "reptile:660471", "beast:2045193"],
-    "rate": null,
-    "offsetDays": null,
-    "offsetSlp": 0
-  },
-  {
     "name": "Iyaaa!",
     "team": "LSK",
     "type": 2,
@@ -32,9 +22,19 @@
   {
     "name": "Nelle",
     "team": "LSK",
-    "type": 1,
+    "type": 2,
     "roninAddress": "ronin:7724a30344e6017f6fd35b608e294f6a72d4b321",
     "axies": ["plant:1944432", "aqua:1722022", "aqua:1713395"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Injoker",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:ddccc56fc5ba1b19f1975eac758f18b93c5e37c1",
+    "axies": ["plant:2301007", "reptile:660471", "beast:2045193"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
