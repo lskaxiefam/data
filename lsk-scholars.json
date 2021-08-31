@@ -110,16 +110,6 @@
     "offsetSlp": 0
   },
   {
-    "name": "Scam",
-    "team": "LSK",
-    "type": 1,
-    "roninAddress": "ronin:2aa8c8a6471494296883db018c95853d947e0b3f",
-    "axies": ["bug:475601", "bug:433554", "beast:824494"],
-    "rate": null,
-    "offsetDays": null,
-    "offsetSlp": 81
-  },
-  {
     "name": "Teta",
     "team": "LSK",
     "type": 1,
@@ -316,8 +306,8 @@
     "roninAddress": "ronin:06cc0c130986ec6cc1369db47043d9a06dea8b6b",
     "axies": ["plant:2078622", "reptile:2036182", "beast:3949243"],
     "rate": null,
-    "offsetDays": 3,
-    "offsetSlp": 0
+    "offsetDays": null,
+    "offsetSlp": 1317
   },
   {
     "name": "Arrow",
@@ -326,8 +316,8 @@
     "roninAddress": "ronin:0a20fa3600098410f6c9fb0e56958c529b1edc58",
     "axies": ["plant:4314700", "reptile:4309552", "mech:4309118"],
     "rate": null,
-    "offsetDays": 8,
-    "offsetSlp": 0
+    "offsetDays": null,
+    "offsetSlp": 690
   },
   {
     "name": "Grey",
@@ -336,7 +326,7 @@
     "roninAddress": "ronin:44b46cc43dccd750471abac6e08882ba478157f8",
     "axies": ["plant:4156624", "reptile:3514629", "mech:3339847"],
     "rate": null,
-    "offsetDays": 8,
-    "offsetSlp": 0
+    "offsetDays": 0,
+    "offsetSlp": 763
   }
 ]
