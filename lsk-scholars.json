@@ -116,7 +116,7 @@
     "roninAddress": "ronin:9583520c58416350bfa36256a2ffc12a19af1ecf",
     "axies": ["plant:904846", "reptile:558294", "aqua:558294"],
     "rate": null,
-    "offsetDays": 3,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -126,8 +126,8 @@
     "roninAddress": "ronin:50254b0daacf9df0f5e1ed44f08ab78aa3014920",
     "axies": ["plant:2301077", "reptile:2591118", "beast:2290325"],
     "rate": null,
-    "offsetDays": 3,
-    "offsetSlp": 2285
+    "offsetDays": null,
+    "offsetSlp": 0
   },
   {
     "name": "Jpee",
@@ -237,7 +237,7 @@
     "axies": ["plant:891996", "reptile:477902", "beast:3142869"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 1359
+    "offsetSlp": 0
   },
   {
     "name": "Raivervein",
@@ -247,7 +247,7 @@
     "axies": ["plant:3139550", "reptile:2591093", "mech:2397717"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 1249
+    "offsetSlp": 0
   },
   {
     "name": "Chan",
@@ -257,7 +257,7 @@
     "axies": ["plant:3147604", "reptile:1944801", "beast:3140898"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 1283
+    "offsetSlp": 0
   },
   {
     "name": "Kuya Gobas",
@@ -326,7 +326,7 @@
     "roninAddress": "ronin:44b46cc43dccd750471abac6e08882ba478157f8",
     "axies": ["plant:4156624", "reptile:3514629", "mech:3339847"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": null,
     "offsetSlp": 763
   }
 ]
