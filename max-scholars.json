@@ -10,16 +10,6 @@
     "offsetSlp": 0
   },
   {
-    "name": "Lee",
-    "team": "MAX",
-    "type": 1,
-    "roninAddress": "ronin:dfa1d3954b381a97340201db1cd89a8372e0fa22",
-    "axies": ["plant:485067", "reptile:1962777", "beast:1448331"],
-    "rate": 1,
-    "offsetDays": null,
-    "offsetSlp": 0
-  },
-  {
     "name": "Yeng",
     "team": "MAX",
     "type": 1,
