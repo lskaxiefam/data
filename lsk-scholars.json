@@ -80,6 +80,16 @@
     "offsetSlp": 0
   },
   {
+    "name": "ETCH",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:2aa8c8a6471494296883db018c95853d947e0b3f",
+    "axies": ["plant:4310052", "beast:4308836", "bird:3685903"],
+    "rate": null,
+    "offsetDays": 1,
+    "offsetSlp": 0
+  },
+  {
     "name": "Sneaky",
     "team": "LSK",
     "type": 1,
