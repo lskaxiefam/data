@@ -30,14 +30,14 @@
     "offsetSlp": 0
   },
   {
-    "name": "Mikyzane",
+    "name": "Lore",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:dfa1d3954b381a97340201db1cd89a8372e0fa22",
     "axies": ["plant:485067", "reptile:1962777", "beast:1448331"],
     "rate": null,
-    "offsetDays": null,
-    "offsetSlp": 0
+    "offsetDays": 3,
+    "offsetSlp": 272
   },
   {
     "name": "Injoker",
