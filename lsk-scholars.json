@@ -114,7 +114,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:f2274fcf63ebf77acff7334091b1522d215769cd",
-    "axies": ["plant:944040", "reptile:1007973", "beast:1103981"],
+    "axies": ["plant:944040", "reptile:1007973", "beast:2513033"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
@@ -134,7 +134,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:9583520c58416350bfa36256a2ffc12a19af1ecf",
-    "axies": ["plant:904846", "reptile:558294", "aqua:558294"],
+    "axies": ["plant:904846", "reptile:558294", "aqua:758882"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
