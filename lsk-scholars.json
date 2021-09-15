@@ -36,8 +36,8 @@
     "roninAddress": "ronin:dfa1d3954b381a97340201db1cd89a8372e0fa22",
     "axies": ["plant:485067", "reptile:1962777", "beast:1448331"],
     "rate": null,
-    "offsetDays": 3,
-    "offsetSlp": 272
+    "offsetDays": null,
+    "offsetSlp": 0
   },
   {
     "name": "Injoker",
@@ -76,8 +76,8 @@
     "roninAddress": "ronin:a9e8010713620e43543c0b423e8613a95da5dca2",
     "axies": ["plant:904727", "reptile:558430", "beast:5166208"],
     "rate": null,
-    "offsetDays": 8,
-    "offsetSlp": 1068
+    "offsetDays": null,
+    "offsetSlp": 0
   },
   {
     "name": "ETCH",
@@ -86,7 +86,7 @@
     "roninAddress": "ronin:2aa8c8a6471494296883db018c95853d947e0b3f",
     "axies": ["plant:4310052", "beast:4308836", "bird:3685903"],
     "rate": null,
-    "offsetDays": 1,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
