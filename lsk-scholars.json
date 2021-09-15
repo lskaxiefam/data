@@ -50,21 +50,21 @@
     "offsetSlp": 0
   },
   {
-    "name": "Turon",
+    "name": "Mikyzane",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:3c8e77e2bf47676d2b4becd7717a9d597c8c450b",
-    "axies": ["plant:715964", "aqua:618454", "aqua:463929"],
+    "axies": ["plant:715964", "beast:3376275", "bird:4308636"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
   },
   {
-    "name": "Sugar",
+    "name": "GGK",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:80692f8b99025a0d89e0761766b8d1b45b5c8f0b",
-    "axies": ["plant:670835", "reptile:766964", "bug:770689"],
+    "axies": ["plant:670835", "beast:4725636", "bird:3538767"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
@@ -104,7 +104,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:6ed44d6c72db82928d4fbc8aefe3f20c6b6a73d5",
-    "axies": ["plant:904691", "reptile:823689", "mech:4072987"],
+    "axies": ["plant:904691", "dusk:5387791", "mech:4072987"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
@@ -124,7 +124,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:3f801744857114c7456f1c7bbdd90ad83b77209c",
-    "axies": ["plant:904799", "reptile:708178", "beast:3376275"],
+    "axies": ["plant:904799", "mech:4308699", "bird:3245312"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
@@ -204,7 +204,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:384ad2727f4b2d27abcb16db92e307c839dfc3b3",
-    "axies": ["plant:1100259", "reptile:1944825", "beast:864419"],
+    "axies": ["plant:1100259", "reptile:4726432", "mech:4309021"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
@@ -214,7 +214,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:4bbc1d58db20388f2bf45885ad745e07d684fc9d",
-    "axies": ["plant:1100276", "reptile:2591090", "beast:3508431"],
+    "axies": ["plant:1100276", "reptile:4726447", "mech:4725587"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
@@ -224,7 +224,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:86b37216cd27a63217f19a6fd9f3a318c0d2a812",
-    "axies": ["plant:1338880", "reptile:1174101", "beast:591857"],
+    "axies": ["plant:1338880", "dusk:5460514", "mech:4308942"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
