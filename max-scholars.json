@@ -37,7 +37,7 @@
     "axies": ["plant:4109706", "reptile:1322502", "mech:1146014"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 2179
+    "offsetSlp": 0
   },
   {
     "name": "CJPlaysAxie",
@@ -47,6 +47,6 @@
     "axies": ["plant:4109754", "reptile:2369548", "mech:3436270"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 1797
+    "offsetSlp": 0
   }
 ]
