@@ -227,7 +227,7 @@
     "axies": ["plant:1338880", "dusk:5460514", "mech:4308942"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 0
+    "offsetSlp": 444
   },
   {
     "name": "Bok",
@@ -267,7 +267,7 @@
     "axies": ["plant:3139550", "reptile:2591093", "mech:2397717"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 0
+    "offsetSlp": 264
   },
   {
     "name": "Chan",
