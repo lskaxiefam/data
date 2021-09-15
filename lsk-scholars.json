@@ -327,7 +327,7 @@
     "axies": ["plant:2078622", "reptile:2036182", "beast:3949243"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 1317
+    "offsetSlp": 0
   },
   {
     "name": "Arrow",
@@ -337,7 +337,7 @@
     "axies": ["plant:4314700", "reptile:4309552", "mech:4309118"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 690
+    "offsetSlp": 0
   },
   {
     "name": "Grey",
@@ -347,6 +347,6 @@
     "axies": ["plant:4156624", "reptile:3514629", "mech:3339847"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 763
+    "offsetSlp": 0
   }
 ]
