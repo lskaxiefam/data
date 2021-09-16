@@ -70,13 +70,13 @@
     "offsetSlp": 0
   },
   {
-    "name": "Zeilan",
+    "name": "wHEyAkz",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:a9e8010713620e43543c0b423e8613a95da5dca2",
     "axies": ["plant:904727", "reptile:558430", "beast:5166208"],
     "rate": null,
-    "offsetDays": null,
+    "offsetDays": 1,
     "offsetSlp": 0
   },
   {
