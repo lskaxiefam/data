@@ -48,5 +48,15 @@
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
+  },
+  {
+    "name": "Arsijay",
+    "team": "MAX",
+    "type": 1,
+    "roninAddress": "ronin:70a95db69fff740aa48cbec7908f46c2db5b81d9",
+    "axies": ["plant:2301050", "reptile:1944825", "beast:864419"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
   }
 ]
