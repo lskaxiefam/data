@@ -177,7 +177,7 @@
     "axies": ["plant:4491004", "plant:4442502", "beast:4052283"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 0
+    "offsetSlp": 12
   },
   {
     "name": "Leo",
