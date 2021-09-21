@@ -348,5 +348,25 @@
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
+  },
+  {
+    "name": "Lesivos",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:b436692eab05bb1637c6b87618686f7b81d7a9e1",
+    "axies": ["plant:891996", "mech:4308735", "bird:4308593"],
+    "rate": null,
+    "offsetDays": 5,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Wired",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:af8dc85bdd40d1749d16886404e5c4d74e352a43",
+    "axies": ["plant:891996", "mech:4308735", "bird:4308593"],
+    "rate": null,
+    "offsetDays": 5,
+    "offsetSlp": 0
   }
 ]
