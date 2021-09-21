@@ -364,7 +364,27 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:af8dc85bdd40d1749d16886404e5c4d74e352a43",
+    "axies": ["plant:891996", "reptile:4308735", "mech:4308593"],
+    "rate": null,
+    "offsetDays": 5,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Will",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:0cf7aeeace2d0df93b7570819783a31cdb716cf6",
     "axies": ["plant:891996", "mech:4308735", "bird:4308593"],
+    "rate": null,
+    "offsetDays": 5,
+    "offsetSlp": 0
+  },
+  {
+    "name": "TorAyuk",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:7f12883f32d98fb36ae5d4d76f2ce4c6e0d58f5b",
+    "axies": ["plant:891996", "reptile:4308735", "mech:4308593"],
     "rate": null,
     "offsetDays": 5,
     "offsetSlp": 0
