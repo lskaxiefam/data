@@ -124,7 +124,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:3f801744857114c7456f1c7bbdd90ad83b77209c",
-    "axies": ["plant:904799", "mech:4308699", "bird:3245312"],
+    "axies": ["plant:6162533", "mech:4308699", "bird:3245312"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
@@ -134,7 +134,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:9583520c58416350bfa36256a2ffc12a19af1ecf",
-    "axies": ["plant:904846", "reptile:558294", "aqua:4823432"],
+    "axies": ["plant:1100259", "reptile:558294", "aqua:4823432"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
@@ -214,7 +214,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:4bbc1d58db20388f2bf45885ad745e07d684fc9d",
-    "axies": ["plant:1100276", "reptile:4726447", "mech:4725587"],
+    "axies": ["plant:1100276", "reptile:6162073", "mech:6161485"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
@@ -224,7 +224,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:86b37216cd27a63217f19a6fd9f3a318c0d2a812",
-    "axies": ["plant:1338880", "dusk:5460514", "mech:4308942"],
+    "axies": ["plant:1338880", "dusk:6162084", "mech:6164086"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 444
@@ -244,7 +244,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:180109c818d713d25696330cb3131ab222ae4254",
-    "axies": ["plant:1944522", "reptile:539996", "beast:3140961"],
+    "axies": ["plant:6166950", "dusk:5460514", "mech:6159852"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
@@ -274,7 +274,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:9eb44fcb27baa4ab3863d7e89793d10b8b04b2ca",
-    "axies": ["plant:3147604", "reptile:1944801", "beast:3140898"],
+    "axies": ["plant:4329774", "reptile:4309448", "mech:6159884"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
@@ -364,7 +364,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:af8dc85bdd40d1749d16886404e5c4d74e352a43",
-    "axies": ["plant:891996", "reptile:4308735", "mech:4308593"],
+    "axies": ["plant:6166989", "reptile:6162994", "mech:6163335"],
     "rate": null,
     "offsetDays": 5,
     "offsetSlp": 0
@@ -374,7 +374,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:0cf7aeeace2d0df93b7570819783a31cdb716cf6",
-    "axies": ["plant:891996", "mech:4308735", "bird:4308593"],
+    "axies": ["plant:6162490", "mech:6161450", "bird:6161141"],
     "rate": null,
     "offsetDays": 5,
     "offsetSlp": 0
@@ -384,7 +384,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:7f12883f32d98fb36ae5d4d76f2ce4c6e0d58f5b",
-    "axies": ["plant:6166974", "dusk:6162028", "mech:6163324"],
+    "axies": ["plant:6166974", "dusk:6163324", "mech:6162028"],
     "rate": null,
     "offsetDays": 5,
     "offsetSlp": 0
