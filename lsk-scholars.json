@@ -396,7 +396,7 @@
     "roninAddress": "ronin:9f9bd902ae37865eebbb6f1b60f3f5d595c46585",
     "axies": ["plant:6167008", "dusk:6159575", "mech:6159909"],
     "rate": null,
-    "offsetDays": 6,
+    "offsetDays": 7,
     "offsetSlp": 0
   }
 ]
