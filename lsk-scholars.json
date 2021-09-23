@@ -258,7 +258,7 @@
     "type": 1,
     "roninAddress": "ronin:87e2fa546cd879b4ee76de28e709f04dff759c4e",
     "playerRoninAddress": "ronin:9616e4daf931cfdcccb5e52780df3b9ca3bce8d1",
-    "axies": ["plant:904751", "reptile:1944771", "beast:4096569"],
+    "axies": ["plant:904751", "dusk:6159592", "mech:4096569"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
