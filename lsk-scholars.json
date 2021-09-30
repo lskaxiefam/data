@@ -44,17 +44,6 @@
     "offsetSlp": 0
   },
   {
-    "name": "Injoker",
-    "team": "LSK",
-    "type": 1,
-    "roninAddress": "ronin:ddccc56fc5ba1b19f1975eac758f18b93c5e37c1",
-    "playerRoninAddress": "ronin:f230a74527531156d5292c9089115b1ce452d381",
-    "axies": ["plant:2301007", "reptile:660471", "beast:2045193"],
-    "rate": null,
-    "offsetDays": null,
-    "offsetSlp": 0
-  },
-  {
     "name": "Mikyzane",
     "team": "LSK",
     "type": 1,
@@ -81,7 +70,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:a9e8010713620e43543c0b423e8613a95da5dca2",
-    "playerRoninAddress": "",
+    "playerRoninAddress": "ronin:836b17561c545fefb7f50f2afe80cb6f8c7cefaa",
     "axies": ["plant:904727", "reptile:4726447", "beast:4309092"],
     "rate": null,
     "offsetDays": 1,
@@ -116,6 +105,17 @@
     "roninAddress": "ronin:6ed44d6c72db82928d4fbc8aefe3f20c6b6a73d5",
     "playerRoninAddress": "ronin:7da31116f18529f3f63bfd3f7736ce6aed63a83d",
     "axies": ["plant:904691", "dusk:5387791", "mech:4072987"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Injoker",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:ddccc56fc5ba1b19f1975eac758f18b93c5e37c1",
+    "playerRoninAddress": "ronin:f230a74527531156d5292c9089115b1ce452d381",
+    "axies": ["plant:2301007", "reptile:660471", "beast:2045193"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
