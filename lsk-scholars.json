@@ -62,7 +62,7 @@
     "playerRoninAddress": "",
     "axies": ["plant:715964", "beast:3376275", "bird:4308636"],
     "rate": null,
-    "offsetDays": 1,
+    "offsetDays": 0,
     "offsetSlp": 0
   },
   {
@@ -194,8 +194,8 @@
     "playerRoninAddress": "",
     "axies": ["plant:4491004", "plant:4442502", "beast:4052283"],
     "rate": null,
-    "offsetDays": 1,
-    "offsetSlp": 12
+    "offsetDays": 0,
+    "offsetSlp": 0
   },
   {
     "name": "Leo",
@@ -411,7 +411,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:0cf7aeeace2d0df93b7570819783a31cdb716cf6",
-    "playerRoninAddress": "",
+    "playerRoninAddress": "ronin:554bc814d9d756a80a205afcab6f82c70d2c2924",
     "axies": ["plant:6162490", "mech:6161450", "bird:6161141"],
     "rate": null,
     "offsetDays": 6,
