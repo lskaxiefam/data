@@ -440,14 +440,14 @@
     "offsetSlp": 0
   },
   {
-    "name": "Dummy1",
+    "name": "Natskie",
     "team": "LSK",
     "type": 0,
     "roninAddress": "ronin:a038a5b22154775c4a926b79a6daed684300d50e",
     "playerRoninAddress": "",
-    "axies": ["plant:6167008", "dusk:6159575", "mech:6159909"],
+    "axies": ["plant:6162542", "reptile:6162964", "mech:6163282"],
     "rate": null,
-    "offsetDays": 7,
+    "offsetDays": 0,
     "offsetSlp": 0
   },
   {
