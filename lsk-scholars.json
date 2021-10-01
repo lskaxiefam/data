@@ -187,12 +187,12 @@
     "offsetSlp": 0
   },
   {
-    "name": "Jaiyanah",
+    "name": "Mallows",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:351cb756b59cbb4cffa34e33ca2a45a64edd28ac",
     "playerRoninAddress": "",
-    "axies": ["plant:4491004", "plant:4442502", "beast:4052283"],
+    "axies": ["plant:4491004", "mech:6163252", "bird:6161171"],
     "rate": null,
     "offsetDays": 0,
     "offsetSlp": 0
