@@ -392,8 +392,8 @@
     "playerRoninAddress": "",
     "axies": ["plant:891996", "mech:4308735", "bird:4308593"],
     "rate": null,
-    "offsetDays": 6,
-    "offsetSlp": 0
+    "offsetDays": 0,
+    "offsetSlp": 967
   },
   {
     "name": "Wired",
@@ -403,8 +403,8 @@
     "playerRoninAddress": "",
     "axies": ["plant:6166989", "reptile:6162994", "mech:6163335"],
     "rate": null,
-    "offsetDays": 6,
-    "offsetSlp": 0
+    "offsetDays": 0,
+    "offsetSlp": 1115
   },
   {
     "name": "Huili",
@@ -414,8 +414,8 @@
     "playerRoninAddress": "ronin:554bc814d9d756a80a205afcab6f82c70d2c2924",
     "axies": ["plant:6162490", "mech:6161450", "bird:6161141"],
     "rate": null,
-    "offsetDays": 6,
-    "offsetSlp": 0
+    "offsetDays": 0,
+    "offsetSlp": 696
   },
   {
     "name": "TorAyuk",
@@ -425,8 +425,8 @@
     "playerRoninAddress": "ronin:011d54ddd3217e0d65fb640a4f9e72bc3b1ff7d4",
     "axies": ["plant:6166974", "dusk:6163324", "mech:6162028"],
     "rate": null,
-    "offsetDays": 6,
-    "offsetSlp": 0
+    "offsetDays": 0,
+    "offsetSlp": 981
   },
   {
     "name": "Jiz",
@@ -436,8 +436,8 @@
     "playerRoninAddress": "ronin:1bfae74a980458ecaee52f13752f6b3ef791d59e",
     "axies": ["plant:6167008", "dusk:6159575", "mech:6159909"],
     "rate": null,
-    "offsetDays": 7,
-    "offsetSlp": 0
+    "offsetDays": 0,
+    "offsetSlp": 624
   },
   {
     "name": "Natskie",
@@ -458,7 +458,7 @@
     "playerRoninAddress": "",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
-    "offsetDays": 8,
-    "offsetSlp": 0
+    "offsetDays": 0,
+    "offsetSlp": 713
   }
 ]
