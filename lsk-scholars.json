@@ -178,11 +178,11 @@
   {
     "name": "Mallows",
     "team": "LSK",
-    "type": 1,
+    "type": 2,
     "roninAddress": "ronin:351cb756b59cbb4cffa34e33ca2a45a64edd28ac",
     "playerRoninAddress": "",
     "axies": ["plant:4491004", "mech:6163252", "bird:6161171"],
-    "rate": null,
+    "rate": 0,
     "offsetDays": null,
     "offsetSlp": 0
   },
