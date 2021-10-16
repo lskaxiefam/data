@@ -57,7 +57,7 @@
   {
     "name": "G1an",
     "team": "LSK",
-    "type": 1,
+    "type": 2,
     "roninAddress": "ronin:80692f8b99025a0d89e0761766b8d1b45b5c8f0b",
     "playerRoninAddress": "ronin:0670e4fc52f40cbec459612f649f826f1cd18d1d",
     "axies": ["plant:670835", "beast:4725636", "bird:3538767"],
@@ -187,14 +187,14 @@
     "offsetSlp": 0
   },
   {
-    "name": "Mallows",
+    "name": "Cheesecake",
     "team": "LSK",
-    "type": 2,
+    "type": 1,
     "roninAddress": "ronin:351cb756b59cbb4cffa34e33ca2a45a64edd28ac",
     "playerRoninAddress": "",
     "axies": ["plant:4491004", "mech:6163252", "bird:6161171"],
     "rate": 0,
-    "offsetDays": null,
+    "offsetDays": 1,
     "offsetSlp": 0
   },
   {
