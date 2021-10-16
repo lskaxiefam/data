@@ -107,7 +107,7 @@
     "axies": ["plant:2301007", "reptile:660471", "beast:2045193"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 75
+    "offsetSlp": 0
   },
   {
     "name": "YATV",
@@ -228,7 +228,7 @@
     "axies": ["plant:1100276", "reptile:6162073", "mech:6161485"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 62
+    "offsetSlp": 0
   },
   {
     "name": "Lucci",
@@ -239,7 +239,7 @@
     "axies": ["plant:1338880", "dusk:6162084", "mech:6164086"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 207
+    "offsetSlp": 0
   },
   {
     "name": "Bok",
@@ -283,7 +283,7 @@
     "axies": ["plant:5051153", "reptile:2591093", "mech:2397717"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 177
+    "offsetSlp": 0
   },
   {
     "name": "Chan",
@@ -371,7 +371,7 @@
     "axies": ["plant:4156624", "reptile:3514629", "mech:3339847"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 32
+    "offsetSlp": 0
   },
   {
     "name": "Lesivos",
@@ -426,7 +426,7 @@
     "axies": ["plant:6167008", "dusk:6159575", "mech:6159909"],
     "rate": null,
     "offsetDays": 0,
-    "offsetSlp": 624
+    "offsetSlp": 0
   },
   {
     "name": "Natskie",
@@ -448,6 +448,6 @@
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
     "offsetDays": 0,
-    "offsetSlp": 713
+    "offsetSlp": 0
   }
 ]
