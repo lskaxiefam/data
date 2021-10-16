@@ -24,22 +24,22 @@
   {
     "name": "MYMP",
     "team": "MAX",
-    "type": 1,
+    "type": 2,
     "roninAddress": "ronin:fd1d22c4a8616e237e7da5b7f97402304c10803f",
     "playerRoninAddress": "ronin:f020dfb2df66d384b7bf4c2c09b7c0f432102ccb",
     "axies": ["plant:4725296", "reptile:558430", "beast:5166208"],
-    "rate": 0,
+    "rate": 1,
     "offsetDays": 0,
     "offsetSlp": 0
   },
     {
     "name": "Valentine",
     "team": "MAX",
-    "type": 1,
+    "type": 2,
     "roninAddress": "ronin:d916319eb4438192d8dfcf8d70d26fba8aa3d377",
     "playerRoninAddress": "ronin:8298a80f158de7db2932998178582b0012f5d509",
     "axies": ["plant:4725338", "reptile:766964", "bug:770689"],
-    "rate": 0,
+    "rate": 1,
     "offsetDays": 0,
     "offsetSlp": 0
   },
@@ -96,6 +96,6 @@
     "axies": ["plant:2301050", "reptile:1944825", "beast:864419"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 1788
+    "offsetSlp": 0
   }
 ]
