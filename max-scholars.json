@@ -11,17 +11,6 @@
     "offsetSlp": 0
   },
   {
-    "name": "Shikamaru",
-    "team": "MAX",
-    "type": 1,
-    "roninAddress": "ronin:6de1e05314287335a228f503817bd05422ab2c8b",
-    "playerRoninAddress": "ronin:fd184f03d8adf82c7f37f0c568e53549b3475f5b",
-    "axies": ["plant:904799", "reptile:6167597", "beast:6161498"],
-    "rate": 0,
-    "offsetDays": 0,
-    "offsetSlp": 0
-  },
-  {
     "name": "MYMP",
     "team": "MAX",
     "type": 2,
@@ -32,7 +21,7 @@
     "offsetDays": 0,
     "offsetSlp": 0
   },
-    {
+  {
     "name": "Valentine",
     "team": "MAX",
     "type": 2,
