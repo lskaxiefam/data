@@ -22,9 +22,9 @@
     "offsetSlp": 0
   },
   {
-    "name": "FookinHeyl",
+    "name": "EMPTY",
     "team": "LSK",
-    "type": 1,
+    "type": 2,
     "roninAddress": "ronin:e270372e0cef4ef1c9a7b72ce8d1b1dbaf7de33d",
     "playerRoninAddress": "",
     "axies": ["plant:500514", "reptile:3511413", "beast:464498"],
@@ -40,7 +40,7 @@
     "playerRoninAddress": "",
     "axies": ["plant:500514", "reptile:3511413", "beast:464498"],
     "rate": null,
-    "offsetDays": null,
+    "offsetDays": 1,
     "offsetSlp": 0
   },
   {
@@ -447,7 +447,7 @@
     "playerRoninAddress": "",
     "axies": ["plant:6162542", "reptile:6162964", "mech:6163282"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": 1,
     "offsetSlp": 0
   },
   {
@@ -480,7 +480,7 @@
     "playerRoninAddress": "",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": 1,
     "offsetSlp": 0
   },
   {
@@ -506,14 +506,14 @@
     "offsetSlp": 0
   },
   {
-    "name": "43",
+    "name": "FookinHeyl",
     "team": "LSK",
-    "type": 2,
+    "type": 1,
     "roninAddress": "ronin:f0363953d0f8c2e28add904f6ae1c52c7a21e1dd",
     "playerRoninAddress": "",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": 1,
     "offsetSlp": 0
   }
 ]
