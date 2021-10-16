@@ -160,7 +160,7 @@
     "roninAddress": "ronin:3da2037225c120d557154cf138142eed6a1ccaf3",
     "playerRoninAddress": "ronin:7bd36883dcbda72eabebe74d2ec371f25dbddbaa",
     "axies": ["plant:4725319", "aqua:2574836", "aqua:5840245"],
-    "rate": 0.5,
+    "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
   },
@@ -382,7 +382,7 @@
     "axies": ["plant:891996", "mech:4308735", "bird:4308593"],
     "rate": 0.5,
     "offsetDays": 0,
-    "offsetSlp": 967
+    "offsetSlp": 3156
   },
   {
     "name": "Wired",
@@ -393,7 +393,7 @@
     "axies": ["plant:6166989", "reptile:6162994", "mech:6163335"],
     "rate": 0.5,
     "offsetDays": 0,
-    "offsetSlp": 1108
+    "offsetSlp": 3253
   },
   {
     "name": "Huili",
@@ -404,7 +404,7 @@
     "axies": ["plant:6162490", "mech:6161450", "bird:6161141"],
     "rate": 0.5,
     "offsetDays": 0,
-    "offsetSlp": 696
+    "offsetSlp": 2661
   },
   {
     "name": "TorAyuk",
@@ -415,7 +415,7 @@
     "axies": ["plant:6166974", "dusk:6163324", "mech:6162028"],
     "rate": 0.5,
     "offsetDays": 0,
-    "offsetSlp": 981
+    "offsetSlp": 2644
   },
   {
     "name": "Jiz",
