@@ -187,7 +187,7 @@
     "offsetSlp": 0
   },
   {
-    "name": "Cheesecake",
+    "name": "CheeseCake",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:351cb756b59cbb4cffa34e33ca2a45a64edd28ac",
@@ -195,7 +195,7 @@
     "axies": ["plant:4491004", "mech:6163252", "bird:6161171"],
     "rate": 0,
     "offsetDays": 1,
-    "offsetSlp": 0
+    "offsetSlp": 467
   },
   {
     "name": "Leo",
