@@ -495,14 +495,14 @@
     "offsetSlp": 0
   },
   {
-    "name": "42",
+    "name": "RyanNalang",
     "team": "LSK",
-    "type": 2,
+    "type": 1,
     "roninAddress": "ronin:784a69cb51813b5ea50007d04c064c67fe2bab2e",
     "playerRoninAddress": "",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": 1,
     "offsetSlp": 0
   },
   {
