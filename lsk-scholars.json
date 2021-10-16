@@ -460,5 +460,60 @@
     "rate": null,
     "offsetDays": 0,
     "offsetSlp": 0
+  },
+  {
+    "name": "Dummy",
+    "team": "LSK",
+    "type": 2,
+    "roninAddress": "ronin:30cd1d73ff8cc8c3b227738a7f3f7f20ecdea548",
+    "playerRoninAddress": "",
+    "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
+    "rate": null,
+    "offsetDays": 0,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Akame",
+    "team": "LSK",
+    "type": 1,
+    "roninAddress": "ronin:11bb8f3a3794ae16dbca4b53fc65c75044884526",
+    "playerRoninAddress": "",
+    "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
+    "rate": null,
+    "offsetDays": 0,
+    "offsetSlp": 0
+  },
+  {
+    "name": "41",
+    "team": "LSK",
+    "type": 2,
+    "roninAddress": "ronin:6453ba518717201ee31c0f2c41a96fd8fb680352",
+    "playerRoninAddress": "",
+    "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
+    "rate": null,
+    "offsetDays": 0,
+    "offsetSlp": 0
+  },
+  {
+    "name": "42",
+    "team": "LSK",
+    "type": 2,
+    "roninAddress": "ronin:784a69cb51813b5ea50007d04c064c67fe2bab2e",
+    "playerRoninAddress": "",
+    "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
+    "rate": null,
+    "offsetDays": 0,
+    "offsetSlp": 0
+  },
+  {
+    "name": "43",
+    "team": "LSK",
+    "type": 2,
+    "roninAddress": "ronin:f0363953d0f8c2e28add904f6ae1c52c7a21e1dd",
+    "playerRoninAddress": "",
+    "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
+    "rate": null,
+    "offsetDays": 0,
+    "offsetSlp": 0
   }
 ]
