@@ -442,7 +442,7 @@
   {
     "name": "WillDaniel",
     "team": "LSK",
-    "type": 0,
+    "type": 1,
     "roninAddress": "ronin:a038a5b22154775c4a926b79a6daed684300d50e",
     "playerRoninAddress": "",
     "axies": ["plant:6162542", "reptile:6162964", "mech:6163282"],
