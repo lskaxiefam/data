@@ -55,15 +55,15 @@
     "offsetSlp": 0
   },
   {
-    "name": "G1an",
+    "name": "Starlord",
     "team": "LSK",
-    "type": 2,
+    "type": 1,
     "roninAddress": "ronin:80692f8b99025a0d89e0761766b8d1b45b5c8f0b",
-    "playerRoninAddress": "ronin:0670e4fc52f40cbec459612f649f826f1cd18d1d",
+    "playerRoninAddress": "",
     "axies": ["plant:670835", "beast:4725636", "bird:3538767"],
     "rate": null,
-    "offsetDays": null,
-    "offsetSlp": 0
+    "offsetDays": 6,
+    "offsetSlp": 291
   },
   {
     "name": "wHEyAkz",
