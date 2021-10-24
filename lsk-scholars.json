@@ -95,7 +95,7 @@
     "playerRoninAddress": "ronin:8fbf727d6e6bbfe0cbb382968d935d929883b1ca",
     "axies": ["plant:993339", "reptile:1007999", "beast:1104000"],
     "rate": null,
-    "offsetDays": null,
+    "offsetDays": 1,
     "offsetSlp": 0
   },
   {
@@ -359,7 +359,7 @@
     "playerRoninAddress": "ronin:3cd3ce636ba8c668cec675987ce4fac289ded3d3",
     "axies": ["plant:2078622", "reptile:2036182", "beast:3949243"],
     "rate": null,
-    "offsetDays": null,
+    "offsetDays": 0,
     "offsetSlp": 0
   },
   {
