@@ -462,14 +462,14 @@
     "offsetSlp": 0
   },
   {
-    "name": "Dummy",
+    "name": "Ekangcutie",
     "team": "LSK",
-    "type": 2,
+    "type": 1,
     "roninAddress": "ronin:30cd1d73ff8cc8c3b227738a7f3f7f20ecdea548",
     "playerRoninAddress": "",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": 12,
     "offsetSlp": 0
   },
   {
