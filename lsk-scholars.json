@@ -466,7 +466,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:30cd1d73ff8cc8c3b227738a7f3f7f20ecdea548",
-    "playerRoninAddress": "",
+    "playerRoninAddress": "ronin:ed3d12e2649dac95821d14233c41c025970490ad",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
     "offsetDays": 12,
