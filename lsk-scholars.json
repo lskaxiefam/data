@@ -63,7 +63,7 @@
     "axies": ["plant:670835", "beast:4725636", "bird:3538767"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 0
+    "offsetSlp": 55
   },
   {
     "name": "wHEyAkz",
@@ -294,7 +294,7 @@
     "axies": ["plant:5051153", "reptile:2591093", "mech:2397717"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 0
+    "offsetSlp": 75
   },
   {
     "name": "Chan",
@@ -382,7 +382,7 @@
     "axies": ["plant:4156624", "reptile:3514629", "mech:3339847"],
     "rate": null,
     "offsetDays": 0,
-    "offsetSlp": 0
+    "offsetSlp": 113
   },
   {
     "name": "Lesivos",
