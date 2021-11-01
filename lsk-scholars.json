@@ -63,7 +63,7 @@
     "axies": ["plant:670835", "beast:4725636", "bird:3538767"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 55
+    "offsetSlp": 56
   },
   {
     "name": "wHEyAkz",
@@ -382,7 +382,7 @@
     "axies": ["plant:4156624", "reptile:3514629", "mech:3339847"],
     "rate": null,
     "offsetDays": 0,
-    "offsetSlp": 113
+    "offsetSlp": 159
   },
   {
     "name": "Lesivos",
