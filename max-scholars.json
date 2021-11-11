@@ -86,5 +86,16 @@
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
+  },
+  {
+    "name": "Jerome",
+    "team": "MAX",
+    "type": 1,
+    "roninAddress": "ronin:96b974bce278dd532659d9c6c449fef62762a872",
+    "playerRoninAddress": "",
+    "axies": ["plant:2301050", "reptile:1944825", "beast:864419"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
   }
 ]
