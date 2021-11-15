@@ -171,7 +171,7 @@
     "roninAddress": "ronin:3da2037225c120d557154cf138142eed6a1ccaf3",
     "playerRoninAddress": "ronin:7bd36883dcbda72eabebe74d2ec371f25dbddbaa",
     "axies": ["plant:4725319", "aqua:2574836", "aqua:5840245"],
-    "rate": null,
+    "rate": 0.45,
     "offsetDays": null,
     "offsetSlp": 0
   },
