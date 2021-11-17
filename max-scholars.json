@@ -92,7 +92,7 @@
     "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:96b974bce278dd532659d9c6c449fef62762a872",
-    "playerRoninAddress": "",
+    "playerRoninAddress": "ronin:3f7f4cb702e4149a7b554e03dcc90e9c752de1d7",
     "axies": ["plant:2301050", "reptile:1944825", "beast:864419"],
     "rate": null,
     "offsetDays": null,
