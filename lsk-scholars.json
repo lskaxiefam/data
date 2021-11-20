@@ -484,15 +484,15 @@
     "offsetSlp": 0
   },
   {
-    "name": "41",
+    "name": "Calipo",
     "team": "LSK",
-    "type": 2,
+    "type": 1,
     "roninAddress": "ronin:6453ba518717201ee31c0f2c41a96fd8fb680352",
     "playerRoninAddress": "",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
     "offsetDays": 0,
-    "offsetSlp": 0
+    "offsetSlp": 5
   },
   {
     "name": "RyanNalang",
