@@ -194,7 +194,7 @@
     "playerRoninAddress": "ronin:f5bd46c4585eb8a76df79a538251986b357ba77e",
     "axies": ["plant:4491004", "mech:6163252", "bird:6161171"],
     "rate": null,
-    "offsetDays": null,
+    "offsetDays": 1,
     "offsetSlp": 0
   },
   {
