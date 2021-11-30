@@ -150,7 +150,7 @@
     "playerRoninAddress": "ronin:3cd3ce636ba8c668cec675987ce4fac289ded3d3",
     "axies": ["plant:1100259", "reptile:558294", "aqua:4823432"],
     "rate": null,
-    "offsetDays": 1,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -161,7 +161,7 @@
     "playerRoninAddress": "ronin:3cd3ce636ba8c668cec675987ce4fac289ded3d3",
     "axies": ["plant:2301077", "reptile:2591118", "beast:2290325"],
     "rate": null,
-    "offsetDays": 2,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -194,7 +194,7 @@
     "playerRoninAddress": "ronin:f5bd46c4585eb8a76df79a538251986b357ba77e",
     "axies": ["plant:4491004", "mech:6163252", "bird:6161171"],
     "rate": null,
-    "offsetDays": 1,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -294,7 +294,7 @@
     "axies": ["plant:5051153", "reptile:2591093", "mech:2397717"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 75
+    "offsetSlp": 0
   },
   {
     "name": "Chan",
@@ -492,7 +492,7 @@
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
     "offsetDays": 0,
-    "offsetSlp": 5
+    "offsetSlp": 0
   },
   {
     "name": "RyanNalang",
@@ -513,7 +513,7 @@
     "playerRoninAddress": "ronin:770a8d3cae8fa5e6f27d66360e302f96427b02f6",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
-    "offsetDays": 7,
+    "offsetDays": 0,
     "offsetSlp": 0
   }
 ]
