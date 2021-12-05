@@ -98,4 +98,15 @@
     "offsetDays": null,
     "offsetSlp": 618
   }
+  {
+    "name": "Tron",
+    "team": "MAX",
+    "type": 1,
+    "roninAddress": "ronin:fd1d22c4a8616e237e7da5b7f97402304c10803f",
+    "playerRoninAddress": "",
+    "axies": ["plant:4725296", "reptile:558430", "beast:5166208"],
+    "rate": null,
+    "offsetDays": 6,
+    "offsetSlp": 100
+  }
 ]
