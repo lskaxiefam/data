@@ -107,6 +107,6 @@
     "axies": ["plant:4725296", "reptile:558430", "beast:5166208"],
     "rate": null,
     "offsetDays": 6,
-    "offsetSlp": 100
+    "offsetSlp": 0
   }
 ]
