@@ -484,11 +484,11 @@
     "offsetSlp": 0
   },
   {
-    "name": "LSK",
+    "name": "Astral",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:6453ba518717201ee31c0f2c41a96fd8fb680352",
-    "playerRoninAddress": "ronin:26691507bc8244ddc4b6a2b19f2685b94c550ba0",
+    "playerRoninAddress": "",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": 0,
     "offsetDays": 0,
