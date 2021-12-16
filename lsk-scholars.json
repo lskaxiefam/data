@@ -253,11 +253,11 @@
     "offsetSlp": 0
   },
   {
-    "name": "Bok",
+    "name": "KIMBO",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:87e2fa546cd879b4ee76de28e709f04dff759c4e",
-    "playerRoninAddress": "ronin:9616e4daf931cfdcccb5e52780df3b9ca3bce8d1",
+    "playerRoninAddress": "",
     "axies": ["plant:904751", "dusk:6159592", "mech:4096569"],
     "rate": null,
     "offsetDays": null,
