@@ -451,14 +451,14 @@
     "offsetSlp": 0
   },
   {
-    "name": "Gurg",
+    "name": "AA Cobra",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:6ced26cee958b577bc436388f7fbb2991815d452",
     "playerRoninAddress": "ronin:df7a872989b4a48ae7f6c1b68cab441d94bb2802",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": 7,
     "offsetSlp": 0
   },
   {
