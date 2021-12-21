@@ -106,7 +106,7 @@
     "playerRoninAddress": "",
     "axies": ["plant:4725296", "reptile:558430", "beast:5166208"],
     "rate": null,
-    "offsetDays": 6,
+    "offsetDays": 0,
     "offsetSlp": 0
   }
 ]
