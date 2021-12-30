@@ -28,7 +28,7 @@
     "roninAddress": "ronin:e270372e0cef4ef1c9a7b72ce8d1b1dbaf7de33d",
     "playerRoninAddress": "",
     "axies": ["plant:500514", "reptile:3511413", "beast:464498"],
-    "rate": null,
+    "rate": 1,
     "offsetDays": null,
     "offsetSlp": 0
   },
@@ -194,7 +194,7 @@
     "playerRoninAddress": "0xd08f427680ce9730bcaafe2e984d05a20e13db61",
     "axies": ["plant:4491004", "mech:6163252", "bird:6161171"],
     "rate": null,
-    "offsetDays": 1,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -205,7 +205,7 @@
     "playerRoninAddress": "ronin:a99cef1cb81c76b7abc41d146c5df4252520f58c",
     "axies": ["plant:1944479", "reptile:1173905", "beast:1945075"],
     "rate": null,
-    "offsetDays": 7,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -304,7 +304,7 @@
     "playerRoninAddress": "ronin:e00c2743190f40d5158b39bfaf3e231a41f21bce",
     "axies": ["plant:4329774", "reptile:4309448", "mech:6159884"],
     "rate": null,
-    "offsetDays": 7,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -359,7 +359,7 @@
     "playerRoninAddress": "ronin:3cd3ce636ba8c668cec675987ce4fac289ded3d3",
     "axies": ["plant:2078622", "reptile:2036182", "beast:3949243"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -367,10 +367,10 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:0a20fa3600098410f6c9fb0e56958c529b1edc58",
-    "playerRoninAddress": "ronin:2a8e4b8fc82577a4fac0f26c84e1e29a3dcc3699",
+    "playerRoninAddress": "",
     "axies": ["plant:4314700", "reptile:4309552", "mech:4309118"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -381,7 +381,7 @@
     "playerRoninAddress": "ronin:ce237f6f7fb39dc54934f4cce1e934102a68645c",
     "axies": ["plant:4156624", "reptile:3514629", "mech:3339847"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -392,7 +392,7 @@
     "playerRoninAddress": "ronin:2dc5f258a5a71e3aae955a02d6818c5b19ad3b2e",
     "axies": ["plant:891996", "mech:4308735", "bird:4308593"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -403,7 +403,7 @@
     "playerRoninAddress": "ronin:02dcd014016b1bdf776fb38585fea12829cb4920",
     "axies": ["plant:6166989", "reptile:6162994", "mech:6163335"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -414,7 +414,7 @@
     "playerRoninAddress": "ronin:554bc814d9d756a80a205afcab6f82c70d2c2924",
     "axies": ["plant:6162490", "mech:6161450", "bird:6161141"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -425,7 +425,7 @@
     "playerRoninAddress": "ronin:011d54ddd3217e0d65fb640a4f9e72bc3b1ff7d4",
     "axies": ["plant:6166974", "dusk:6163324", "mech:6162028"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -436,7 +436,7 @@
     "playerRoninAddress": "ronin:1bfae74a980458ecaee52f13752f6b3ef791d59e",
     "axies": ["plant:6167008", "dusk:6159575", "mech:6159909"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -447,7 +447,7 @@
     "playerRoninAddress": "ronin:3b4bd8f7a1859afe32988d91021a01c6509a8949",
     "axies": ["plant:6162542", "reptile:6162964", "mech:6163282"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -458,7 +458,7 @@
     "playerRoninAddress": "ronin:7c6a744d7d0adfbbf6adea1350bf589da9183d04",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
-    "offsetDays": 7,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -469,7 +469,7 @@
     "playerRoninAddress": "ronin:ed3d12e2649dac95821d14233c41c025970490ad",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -480,7 +480,7 @@
     "playerRoninAddress": "ronin:6b288adf23854c461c0b09fd76b48478cbc07475",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -491,7 +491,7 @@
     "playerRoninAddress": "ronin:44fb3aec7d57157d903da4d01e1577b94eb262cc",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -502,7 +502,7 @@
     "playerRoninAddress": "ronin:f149a5ce7116f6cf3450e9a6fccab03a2a10b7e5",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -513,7 +513,7 @@
     "playerRoninAddress": "ronin:ef9992bf8f51bf96ffb1ea5a50629d694242c8b2",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
-    "offsetDays": 0,
+    "offsetDays": null,
     "offsetSlp": 0
   }
 ]
