@@ -99,11 +99,11 @@
     "offsetSlp": 0
   },
   {
-    "name": "Carnifex",
+    "name": "Frozenfire",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:6ed44d6c72db82928d4fbc8aefe3f20c6b6a73d5",
-    "playerRoninAddress": "ronin:7da31116f18529f3f63bfd3f7736ce6aed63a83d",
+    "playerRoninAddress": "ronin:cba97064d60831aa3390e2c314e3a8f77a463c37",
     "axies": ["plant:904691", "dusk:5387791", "mech:4072987"],
     "rate": null,
     "offsetDays": null,
