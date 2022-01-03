@@ -260,7 +260,7 @@
     "playerRoninAddress": "",
     "axies": ["plant:904751", "dusk:6159592", "mech:4096569"],
     "rate": null,
-    "offsetDays": 1,
+    "offsetDays": 2,
     "offsetSlp": 0
   },
   {
@@ -337,8 +337,8 @@
     "playerRoninAddress": "ronin:5a5394091f038edd280a71fac699c32896fcaa90",
     "axies": ["plant:4309944", "beast:3612937", "bird:3490016"],
     "rate": null,
-    "offsetDays": null,
-    "offsetSlp": 0
+    "offsetDays": 3,
+    "offsetSlp": 544
   },
   {
     "name": "Overgrowth",
