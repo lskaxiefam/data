@@ -286,11 +286,11 @@
     "offsetSlp": 0
   },
   {
-    "name": "Raivervein",
+    "name": "BlackMamba24",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:505331c0b11277935185e041c57ecf06da4ba3df",
-    "playerRoninAddress": "ronin:6b089026684226ea222d6b015a334663b96191e0",
+    "playerRoninAddress": "ronin:5a5394091f038edd280a71fac699c32896fcaa90",
     "axies": ["plant:5051153", "reptile:2591093", "mech:2397717"],
     "rate": null,
     "offsetDays": null,
@@ -330,11 +330,11 @@
     "offsetSlp": 0
   },
   {
-    "name": "BlackMamba24",
+    "name": "Lienchi",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:aa1f063e482d7dace161f64b80b6e9fdd9c78de0",
-    "playerRoninAddress": "ronin:5a5394091f038edd280a71fac699c32896fcaa90",
+    "playerRoninAddress": "",
     "axies": ["plant:4309944", "beast:3612937", "bird:3490016"],
     "rate": null,
     "offsetDays": 3,
