@@ -165,14 +165,14 @@
     "offsetSlp": 0
   },
   {
-    "name": "Jpee",
+    "name": "Ren",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:3da2037225c120d557154cf138142eed6a1ccaf3",
-    "playerRoninAddress": "ronin:7bd36883dcbda72eabebe74d2ec371f25dbddbaa",
+    "playerRoninAddress": "",
     "axies": ["plant:4725319", "aqua:2574836", "aqua:5840245"],
     "rate": null,
-    "offsetDays": null,
+    "offsetDays": 5,
     "offsetSlp": 0
   },
   {
