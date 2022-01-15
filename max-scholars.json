@@ -22,22 +22,22 @@
     "offsetSlp": 0
   },
   {
-    "name": "MushRoom",
+    "name": "Sakura",
     "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:b51bc03bde883ee21ba03bb1d7f6490b600b7b67",
-    "playerRoninAddress": "ronin:2c127d4d8a3fe07a41f98e9a7236457fc731cbff",
+    "playerRoninAddress": "ronin:f1419f600502fbf6e5bc1973bc08c7384f6cedab",
     "axies": ["plant:1338835", "aqua:2937820", "bird:2041923"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
   },
   {
-    "name": "Jei",
+    "name": "Ryu",
     "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:0136a6d130427299a709ee035cdb06391f2c0423",
-    "playerRoninAddress": "ronin:d3e7bde9f12fe624f09536dce3ed12ac2b21251f",
+    "playerRoninAddress": "",
     "axies": ["plant:4109706", "reptile:1322502", "mech:1146014"],
     "rate": null,
     "offsetDays": null,
