@@ -169,7 +169,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:3da2037225c120d557154cf138142eed6a1ccaf3",
-    "playerRoninAddress": "",
+    "playerRoninAddress": "ronin:e7a55fc152b0bbe23b406fb6ddbfffaa0d67b01b",
     "axies": ["plant:4725319", "aqua:2574836", "aqua:5840245"],
     "rate": null,
     "offsetDays": 5,
