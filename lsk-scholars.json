@@ -22,13 +22,24 @@
     "offsetSlp": 0
   },
   {
-    "name": "EMPTY",
+    "name": "Lore",
     "team": "LSK",
-    "type": 2,
+    "type": 1,
+    "roninAddress": "ronin:dfa1d3954b381a97340201db1cd89a8372e0fa22",
+    "playerRoninAddress": "ronin:f2f1f61e3bcac50114c7a4b234a5d273edcb044e",
+    "axies": ["plant:485067", "reptile:1962777", "beast:1448331"],
+    "rate": null,
+    "offsetDays": null,
+    "offsetSlp": 0
+  },
+  {
+    "name": "Guess",
+    "team": "LSK",
+    "type": 1,
     "roninAddress": "ronin:e270372e0cef4ef1c9a7b72ce8d1b1dbaf7de33d",
     "playerRoninAddress": "",
     "axies": ["plant:500514", "reptile:3511413", "beast:464498"],
-    "rate": 1,
+    "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
   },
@@ -43,17 +54,7 @@
     "offsetDays": null,
     "offsetSlp": 0
   },
-  {
-    "name": "Lore",
-    "team": "LSK",
-    "type": 1,
-    "roninAddress": "ronin:dfa1d3954b381a97340201db1cd89a8372e0fa22",
-    "playerRoninAddress": "ronin:f2f1f61e3bcac50114c7a4b234a5d273edcb044e",
-    "axies": ["plant:485067", "reptile:1962777", "beast:1448331"],
-    "rate": null,
-    "offsetDays": null,
-    "offsetSlp": 0
-  },
+  
   {
     "name": "Starlord",
     "team": "LSK",
