@@ -172,7 +172,7 @@
     "playerRoninAddress": "ronin:e7a55fc152b0bbe23b406fb6ddbfffaa0d67b01b",
     "axies": ["plant:4725319", "aqua:2574836", "aqua:5840245"],
     "rate": null,
-    "offsetDays": 5,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -260,7 +260,7 @@
     "playerRoninAddress": "",
     "axies": ["plant:904751", "dusk:6159592", "mech:4096569"],
     "rate": null,
-    "offsetDays": 2,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -293,7 +293,7 @@
     "playerRoninAddress": "ronin:5a5394091f038edd280a71fac699c32896fcaa90",
     "axies": ["plant:5051153", "reptile:2591093", "mech:2397717"],
     "rate": null,
-    "offsetDays": 4,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -304,7 +304,7 @@
     "playerRoninAddress": "ronin:e00c2743190f40d5158b39bfaf3e231a41f21bce",
     "axies": ["plant:4329774", "reptile:4309448", "mech:6159884"],
     "rate": null,
-    "offsetDays": 3,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -337,8 +337,8 @@
     "playerRoninAddress": "ronin:962a5f62f1f1abd7487e75c1bb27b9a86b32ab78",
     "axies": ["plant:4309944", "beast:3612937", "bird:3490016"],
     "rate": null,
-    "offsetDays": 3,
-    "offsetSlp": 544
+    "offsetDays": null,
+    "offsetSlp": 0
   },
   {
     "name": "Overgrowth",
@@ -447,7 +447,7 @@
     "playerRoninAddress": "ronin:3b4bd8f7a1859afe32988d91021a01c6509a8949",
     "axies": ["plant:6162542", "reptile:6162964", "mech:6163282"],
     "rate": null,
-    "offsetDays": 1,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
