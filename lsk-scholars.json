@@ -217,7 +217,7 @@
     "playerRoninAddress": "ronin:7bd36883dcbda72eabebe74d2ec371f25dbddbaa",
     "axies": ["plant:1338852", "reptile:731087", "beast:1395466"],
     "rate": null,
-    "offsetDays": 3,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -272,7 +272,7 @@
     "playerRoninAddress": "ronin:70741b5b33335b0befba9526905728efa4cb3c79",
     "axies": ["plant:6166950", "dusk:5460514", "mech:6159852"],
     "rate": null,
-    "offsetDays": 6,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
@@ -525,7 +525,7 @@
     "playerRoninAddress": "",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
-    "offsetDays": 1,
+    "offsetDays": null,
     "offsetSlp": 0
   }
 ]
