@@ -342,11 +342,11 @@
     "offsetSlp": 0
   },
   {
-    "name": "Overgrowth",
+    "name": "Tron",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:f033af5b9eb9d608804f9e772e109ffd475ab009",
-    "playerRoninAddress": "ronin:cba97064d60831aa3390e2c314e3a8f77a463c37",
+    "playerRoninAddress": "ronin:597915ab98fa28986867f0764f810a3282645731",
     "axies": ["plant:3139620", "mech:3454277", "bird:3226227"],
     "rate": null,
     "offsetDays": null,
