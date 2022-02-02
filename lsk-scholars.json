@@ -33,11 +33,11 @@
     "offsetSlp": 0
   },
   {
-    "name": "mb",
+    "name": "XXX",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:e270372e0cef4ef1c9a7b72ce8d1b1dbaf7de33d",
-    "playerRoninAddress": "ronin:2f67ee27f3d6d8f10a6d2c3a95c8c40f8701bac9",
+    "playerRoninAddress": "",
     "axies": ["plant:500514", "reptile:3511413", "beast:464498"],
     "rate": null,
     "offsetDays": null,
@@ -100,11 +100,11 @@
     "offsetSlp": 0
   },
   {
-    "name": "Frozenfire",
+    "name": "mb",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:6ed44d6c72db82928d4fbc8aefe3f20c6b6a73d5",
-    "playerRoninAddress": "ronin:cba97064d60831aa3390e2c314e3a8f77a463c37",
+    "playerRoninAddress": "ronin:2f67ee27f3d6d8f10a6d2c3a95c8c40f8701bac9",
     "axies": ["plant:904691", "dusk:5387791", "mech:4072987"],
     "rate": null,
     "offsetDays": null,
