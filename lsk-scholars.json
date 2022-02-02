@@ -232,22 +232,22 @@
     "offsetSlp": 0
   },
   {
-    "name": "Disarm",
+    "name": "Lucci",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:4bbc1d58db20388f2bf45885ad745e07d684fc9d",
-    "playerRoninAddress": "ronin:6bb55701d76a051a4777f168d8a2cad02405ac06",
+    "playerRoninAddress": "ronin:5cebd88c1c86c4b58b5a11f926f29563ed15c800",
     "axies": ["plant:1100276", "reptile:6162073", "mech:6161485"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
   },
   {
-    "name": "Lucci",
+    "name": "Riskker",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:86b37216cd27a63217f19a6fd9f3a318c0d2a812",
-    "playerRoninAddress": "ronin:5cebd88c1c86c4b58b5a11f926f29563ed15c800",
+    "playerRoninAddress": "",
     "axies": ["plant:1338880", "dusk:6162084", "mech:6164086"],
     "rate": null,
     "offsetDays": null,
