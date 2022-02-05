@@ -265,15 +265,15 @@
     "offsetSlp": 0
   },
   {
-    "name": "Migz",
+    "name": "Celine",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:180109c818d713d25696330cb3131ab222ae4254",
-    "playerRoninAddress": "ronin:70741b5b33335b0befba9526905728efa4cb3c79",
+    "playerRoninAddress": "",
     "axies": ["plant:6166950", "dusk:5460514", "mech:6159852"],
     "rate": null,
     "offsetDays": null,
-    "offsetSlp": 0
+    "offsetSlp": 6
   },
   {
     "name": "El Gamma",
