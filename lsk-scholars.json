@@ -40,7 +40,7 @@
     "playerRoninAddress": "",
     "axies": ["plant:500514", "reptile:3511413", "beast:464498"],
     "rate": null,
-    "offsetDays": null,
+    "offsetDays": 7,
     "offsetSlp": 0
   },
   {
@@ -272,8 +272,8 @@
     "playerRoninAddress": "",
     "axies": ["plant:6166950", "dusk:5460514", "mech:6159852"],
     "rate": null,
-    "offsetDays": null,
-    "offsetSlp": 6
+    "offsetDays": 7,
+    "offsetSlp": 0
   },
   {
     "name": "El Gamma",
