@@ -188,11 +188,11 @@
     "offsetSlp": 0
   },
   {
-    "name": "Noah",
+    "name": "XXX",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:351cb756b59cbb4cffa34e33ca2a45a64edd28ac",
-    "playerRoninAddress": "ronin:d08f427680ce9730bcaafe2e984d05a20e13db61",
+    "playerRoninAddress": "",
     "axies": ["plant:4491004", "mech:6163252", "bird:6161171"],
     "rate": null,
     "offsetDays": null,
