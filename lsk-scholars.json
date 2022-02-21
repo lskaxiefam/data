@@ -40,7 +40,7 @@
     "playerRoninAddress": "ronin:bc2426fe00e5a3d4171346d98489c2c30b335f60",
     "axies": ["plant:500514", "reptile:3511413", "beast:464498"],
     "rate": null,
-    "offsetDays": 7,
+    "offsetDays": null,
     "offsetSlp": 0
   },
   {
