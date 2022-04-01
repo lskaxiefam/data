@@ -375,11 +375,11 @@
     "offsetSlp": 0
   },
   {
-    "name": "Grey",
+    "name": "Astral",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:44b46cc43dccd750471abac6e08882ba478157f8",
-    "playerRoninAddress": "ronin:ce237f6f7fb39dc54934f4cce1e934102a68645c",
+    "playerRoninAddress": "ronin:ronin:44fb3aec7d57157d903da4d01e1577b94eb262cc",
     "axies": ["plant:4156624", "reptile:3514629", "mech:3339847"],
     "rate": null,
     "offsetDays": null,
@@ -401,7 +401,7 @@
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:af8dc85bdd40d1749d16886404e5c4d74e352a43",
-    "playerRoninAddress": "ronin:02dcd014016b1bdf776fb38585fea12829cb4920",
+    "playerRoninAddress": "ronin:53da1cc7cfc0f6422e7627d807916e5a9e16131b",
     "axies": ["plant:6166989", "reptile:6162994", "mech:6163335"],
     "rate": null,
     "offsetDays": null,
@@ -485,11 +485,11 @@
     "offsetSlp": 0
   },
   {
-    "name": "Astral",
+    "name": "Kirito",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:6453ba518717201ee31c0f2c41a96fd8fb680352",
-    "playerRoninAddress": "ronin:44fb3aec7d57157d903da4d01e1577b94eb262cc",
+    "playerRoninAddress": "",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
     "offsetDays": null,
