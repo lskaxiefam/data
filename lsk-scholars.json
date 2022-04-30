@@ -22,11 +22,11 @@
     "offsetSlp": 0
   },
   {
-    "name": "Lore",
+    "name": "YATV",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:dfa1d3954b381a97340201db1cd89a8372e0fa22",
-    "playerRoninAddress": "ronin:f2f1f61e3bcac50114c7a4b234a5d273edcb044e",
+    "playerRoninAddress": "ronin:7da31116f18529f3f63bfd3f7736ce6aed63a83d",
     "axies": ["plant:485067", "reptile:1962777", "beast:1448331"],
     "rate": null,
     "offsetDays": null,
@@ -122,11 +122,11 @@
     "offsetSlp": 0
   },
   {
-    "name": "YATV",
+    "name": "XYATV",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:f2274fcf63ebf77acff7334091b1522d215769cd",
-    "playerRoninAddress": "ronin:7da31116f18529f3f63bfd3f7736ce6aed63a83d",
+    "playerRoninAddress": "",
     "axies": ["plant:944040", "reptile:1007973", "beast:2513033"],
     "rate": null,
     "offsetDays": null,
