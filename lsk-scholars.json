@@ -496,11 +496,11 @@
     "offsetSlp": 0
   },
   {
-    "name": "RyanNalang",
+    "name": "cram",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:784a69cb51813b5ea50007d04c064c67fe2bab2e",
-    "playerRoninAddress": "ronin:7513b01142acc4dcf5ec300ecd60b63a0aaaee30",
+    "playerRoninAddress": "",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
     "offsetDays": null,
