@@ -111,7 +111,7 @@
   },
   {
     "name": "YATV",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:dfa1d3954b381a97340201db1cd89a8372e0fa22",
     "playerRoninAddress": "ronin:7da31116f18529f3f63bfd3f7736ce6aed63a83d",
@@ -122,7 +122,7 @@
   },
   {
     "name": "Selen",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:e270372e0cef4ef1c9a7b72ce8d1b1dbaf7de33d",
     "playerRoninAddress": "ronin:bc2426fe00e5a3d4171346d98489c2c30b335f60",
@@ -133,7 +133,7 @@
   },
   {
     "name": "Spacejayz",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:3c8e77e2bf47676d2b4becd7717a9d597c8c450b",
     "playerRoninAddress": "ronin:90a62dcd85c14d0e3ad802da13ca3996319237ad",
@@ -145,7 +145,7 @@
   
   {
     "name": "Starlord",
-    "team": "LSK",
+    "team": "MAX",
     "type": 2,
     "roninAddress": "ronin:80692f8b99025a0d89e0761766b8d1b45b5c8f0b",
     "playerRoninAddress": "ronin:c43c42174b2c7d05253dcebc52fcad5e71b60709",
@@ -156,7 +156,7 @@
   },
   {
     "name": "wHEyAkz",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:a9e8010713620e43543c0b423e8613a95da5dca2",
     "playerRoninAddress": "ronin:836b17561c545fefb7f50f2afe80cb6f8c7cefaa",
@@ -167,7 +167,7 @@
   },
   {
     "name": "ETCH",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:2aa8c8a6471494296883db018c95853d947e0b3f",
     "playerRoninAddress": "ronin:0066f808ff9333f6860be104232778f2b2bbcb00",
@@ -178,7 +178,7 @@
   },
   {
     "name": "Kattoo",
-    "team": "LSK",
+    "team": "MAX",
     "type": 2,
     "roninAddress": "ronin:22e0c67f4c3cfc2339ed84534e9a4e3cb3db897e",
     "playerRoninAddress": "ronin:5104917135c91c3d4c9d1a5e7dae659641d44d55",
@@ -189,7 +189,7 @@
   },
   {
     "name": "mb",
-    "team": "LSK",
+    "team": "MAX",
     "type": 2,
     "roninAddress": "ronin:6ed44d6c72db82928d4fbc8aefe3f20c6b6a73d5",
     "playerRoninAddress": "ronin:2f67ee27f3d6d8f10a6d2c3a95c8c40f8701bac9",
@@ -200,7 +200,7 @@
   },
   {
     "name": "Injoker",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:ddccc56fc5ba1b19f1975eac758f18b93c5e37c1",
     "playerRoninAddress": "ronin:f230a74527531156d5292c9089115b1ce452d381",
@@ -211,7 +211,7 @@
   },
   {
     "name": "XYATV",
-    "team": "LSK",
+    "team": "MAX",
     "type": 2,
     "roninAddress": "ronin:f2274fcf63ebf77acff7334091b1522d215769cd",
     "playerRoninAddress": "",
@@ -222,7 +222,7 @@
   },
   {
     "name": "Kels",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:3f801744857114c7456f1c7bbdd90ad83b77209c",
     "playerRoninAddress": "ronin:1f06bae67cf55c1758c782ddbad23fb368bb43d7",
@@ -233,7 +233,7 @@
   },
   {
     "name": "Teta",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:9583520c58416350bfa36256a2ffc12a19af1ecf",
     "playerRoninAddress": "ronin:3cd3ce636ba8c668cec675987ce4fac289ded3d3",
@@ -244,7 +244,7 @@
   },
   {
     "name": "Jeff",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:50254b0daacf9df0f5e1ed44f08ab78aa3014920",
     "playerRoninAddress": "ronin:3cd3ce636ba8c668cec675987ce4fac289ded3d3",
@@ -255,7 +255,7 @@
   },
   {
     "name": "Doms",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:3da2037225c120d557154cf138142eed6a1ccaf3",
     "playerRoninAddress": "ronin:a9783a4de95c02ce1a2f3bedcc45d08b0e93ff84",
@@ -266,7 +266,7 @@
   },
   {
     "name": "Hobs",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:7239b5c3705a4964e21bdbfebf7147260ad7ea18",
     "playerRoninAddress": "ronin:f2f1f61e3bcac50114c7a4b234a5d273edcb044e",
@@ -277,7 +277,7 @@
   },
   {
     "name": "Deku",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:351cb756b59cbb4cffa34e33ca2a45a64edd28ac",
     "playerRoninAddress": "ronin:bc2426fe00e5a3d4171346d98489c2c30b335f60",
@@ -288,7 +288,7 @@
   },
   {
     "name": "BigBoss",
-    "team": "LSK",
+    "team": "MAX",
     "type": 2,
     "roninAddress": "ronin:f97bf4c28d044d635f7b5a330ecc51de41180c6a",
     "playerRoninAddress": "ronin:a99cef1cb81c76b7abc41d146c5df4252520f58c",
@@ -299,7 +299,7 @@
   },
   {
     "name": "Darc",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:91913486cb5f0658127d50134001a9f4cd912b45",
     "playerRoninAddress": "ronin:7bd36883dcbda72eabebe74d2ec371f25dbddbaa",
@@ -310,7 +310,7 @@
   },
   {
     "name": "Ned",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:384ad2727f4b2d27abcb16db92e307c839dfc3b3",
     "playerRoninAddress": "ronin:a516df45b80e6051696da9a0b71d80684aa01c48",
@@ -321,7 +321,7 @@
   },
   {
     "name": "Lucci",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:4bbc1d58db20388f2bf45885ad745e07d684fc9d",
     "playerRoninAddress": "ronin:5cebd88c1c86c4b58b5a11f926f29563ed15c800",
@@ -332,7 +332,7 @@
   },
   {
     "name": "Riskker",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:86b37216cd27a63217f19a6fd9f3a318c0d2a812",
     "playerRoninAddress": "ronin:a4bcac8caa15d9c4285bbbe1e5f6bb6b7e09d9e1",
@@ -343,7 +343,7 @@
   },
   {
     "name": "akositiger",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:87e2fa546cd879b4ee76de28e709f04dff759c4e",
     "playerRoninAddress": "ronin:8a4bde7fa4e76e34477d5d6587091b82088ef911",
@@ -354,7 +354,7 @@
   },
   {
     "name": "Celine",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:180109c818d713d25696330cb3131ab222ae4254",
     "playerRoninAddress": "ronin:712000ce4188319962f5212349f686452c58ab30",
@@ -365,7 +365,7 @@
   },
   {
     "name": "El Gamma",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:92573984463ac548217c631813de72a79c99b59a",
     "playerRoninAddress": "ronin:ed3d12e2649dac95821d14233c41c025970490ad",
@@ -376,7 +376,7 @@
   },
   {
     "name": "BlackMamba24",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:505331c0b11277935185e041c57ecf06da4ba3df",
     "playerRoninAddress": "ronin:5a5394091f038edd280a71fac699c32896fcaa90",
@@ -387,7 +387,7 @@
   },
   {
     "name": "Chan",
-    "team": "LSK",
+    "team": "MAX",
     "type": 2,
     "roninAddress": "ronin:9eb44fcb27baa4ab3863d7e89793d10b8b04b2ca",
     "playerRoninAddress": "ronin:e00c2743190f40d5158b39bfaf3e231a41f21bce",
@@ -398,7 +398,7 @@
   },
   {
     "name": "Kuya Gobas",
-    "team": "LSK",
+    "team": "MAX",
     "type": 2,
     "roninAddress": "ronin:bcb19581bd1efdb529cfc23819fefb9e2ae761b7",
     "playerRoninAddress": "ronin:ef9992bf8f51bf96ffb1ea5a50629d694242c8b2",
@@ -409,7 +409,7 @@
   },
   {
     "name": "Shanks",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:d9f04dc2eb388590bc9e930cdd03beabbf1c68ab",
     "playerRoninAddress": "ronin:3f7f4cb702e4149a7b554e03dcc90e9c752de1d7",
@@ -420,7 +420,7 @@
   },
   {
     "name": "Lienchi",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:aa1f063e482d7dace161f64b80b6e9fdd9c78de0",
     "playerRoninAddress": "ronin:962a5f62f1f1abd7487e75c1bb27b9a86b32ab78",
@@ -431,7 +431,7 @@
   },
   {
     "name": "Tron",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:f033af5b9eb9d608804f9e772e109ffd475ab009",
     "playerRoninAddress": "ronin:597915ab98fa28986867f0764f810a3282645731",
@@ -442,7 +442,7 @@
   },
   {
     "name": "Calipo",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:06cc0c130986ec6cc1369db47043d9a06dea8b6b",
     "playerRoninAddress": "ronin:0bc8306c030d3b2d7fc2bac4c303f942ebb439cb",
@@ -453,7 +453,7 @@
   },
   {
     "name": "MATHAPACKA",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:0a20fa3600098410f6c9fb0e56958c529b1edc58",
     "playerRoninAddress": "ronin:872e3304e00c011ad413e9834acac0893a6de360",
@@ -464,7 +464,7 @@
   },
   {
     "name": "Astral",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:44b46cc43dccd750471abac6e08882ba478157f8",
     "playerRoninAddress": "ronin:44fb3aec7d57157d903da4d01e1577b94eb262cc",
@@ -475,7 +475,7 @@
   },
   {
     "name": "Lesivos",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:b436692eab05bb1637c6b87618686f7b81d7a9e1",
     "playerRoninAddress": "ronin:2dc5f258a5a71e3aae955a02d6818c5b19ad3b2e",
@@ -486,7 +486,7 @@
   },
   {
     "name": "Nica",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:af8dc85bdd40d1749d16886404e5c4d74e352a43",
     "playerRoninAddress": "ronin:53da1cc7cfc0f6422e7627d807916e5a9e16131b",
@@ -497,7 +497,7 @@
   },
   {
     "name": "Huili",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:0cf7aeeace2d0df93b7570819783a31cdb716cf6",
     "playerRoninAddress": "ronin:554bc814d9d756a80a205afcab6f82c70d2c2924",
@@ -508,7 +508,7 @@
   },
   {
     "name": "TorAyuk",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:7f12883f32d98fb36ae5d4d76f2ce4c6e0d58f5b",
     "playerRoninAddress": "ronin:d0172ae22e94d4ad5885a6807008a28229fb4aba",
@@ -519,7 +519,7 @@
   },
   {
     "name": "Mr.Nightfury",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:9f9bd902ae37865eebbb6f1b60f3f5d595c46585",
     "playerRoninAddress": "ronin:089c0bad9c67bb7db4cdf8703d18f4a01642aed0",
@@ -530,7 +530,7 @@
   },
   {
     "name": "WillDaniel",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:a038a5b22154775c4a926b79a6daed684300d50e",
     "playerRoninAddress": "ronin:3b4bd8f7a1859afe32988d91021a01c6509a8949",
@@ -541,7 +541,7 @@
   },
   {
     "name": "AA Cobra",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:6ced26cee958b577bc436388f7fbb2991815d452",
     "playerRoninAddress": "ronin:7c6a744d7d0adfbbf6adea1350bf589da9183d04",
@@ -552,7 +552,7 @@
   },
   {
     "name": "Jerro",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:30cd1d73ff8cc8c3b227738a7f3f7f20ecdea548",
     "playerRoninAddress": "ronin:fbb5d099ac6fd87e3a5c40b48303b9883f4d4e63",
@@ -563,7 +563,7 @@
   },
   {
     "name": "Akame",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:11bb8f3a3794ae16dbca4b53fc65c75044884526",
     "playerRoninAddress": "ronin:6b288adf23854c461c0b09fd76b48478cbc07475",
@@ -574,7 +574,7 @@
   },
   {
     "name": "Kirito",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:6453ba518717201ee31c0f2c41a96fd8fb680352",
     "playerRoninAddress": "ronin:fc7a980ca2ad86bbdf1ead1fabe0f6ab3e1e7701",
@@ -585,7 +585,7 @@
   },
   {
     "name": "cram",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:784a69cb51813b5ea50007d04c064c67fe2bab2e",
     "playerRoninAddress": "",
@@ -596,7 +596,7 @@
   },
   {
     "name": "Ate Vicky",
-    "team": "LSK",
+    "team": "MAX",
     "type": 2,
     "roninAddress": "ronin:f0363953d0f8c2e28add904f6ae1c52c7a21e1dd",
     "playerRoninAddress": "ronin:ef9992bf8f51bf96ffb1ea5a50629d694242c8b2",
@@ -607,7 +607,7 @@
   },
   {
     "name": "Scott",
-    "team": "LSK",
+    "team": "MAX",
     "type": 1,
     "roninAddress": "ronin:b7bc23ee63b15b229e081e5d96ebb86e17852bf3",
     "playerRoninAddress": "ronin:3f7f4cb702e4149a7b554e03dcc90e9c752de1d7",
