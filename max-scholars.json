@@ -90,7 +90,7 @@
   {
     "name": "LSK",
     "team": "LSK",
-    "type": 0,
+    "type": 2,
     "roninAddress": "ronin:26691507bc8244ddc4b6a2b19f2685b94c550ba0",
     "playerRoninAddress": "",
     "axies": [],
