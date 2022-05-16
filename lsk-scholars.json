@@ -320,11 +320,11 @@
     "offsetSlp": 0
   },
   {
-    "name": "Frauzt",
+    "name": "Shanks",
     "team": "LSK",
     "type": 1,
     "roninAddress": "ronin:d9f04dc2eb388590bc9e930cdd03beabbf1c68ab",
-    "playerRoninAddress": "ronin:fad7d80b8c3811f5a17c6295c45905086317806e",
+    "playerRoninAddress": "ronin:3f7f4cb702e4149a7b554e03dcc90e9c752de1d7",
     "axies": ["plant:4313750", "reptile:4309410", "mech:4308977"],
     "rate": null,
     "offsetDays": null,
