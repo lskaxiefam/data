@@ -24,7 +24,7 @@
   {
     "name": "Auto Win",
     "team": "MAX",
-    "type": 1,
+    "type": 0,
     "roninAddress": "ronin:b51bc03bde883ee21ba03bb1d7f6490b600b7b67",
     "playerRoninAddress": "ronin:b4f2bffbe9b1b716e83b59bc14b4bbd35a89e6ea",
     "axies": ["plant:1338835", "aqua:2937820", "bird:2041923"],
@@ -68,7 +68,7 @@
   {
     "name": "Eros",
     "team": "MAX",
-    "type": 1,
+    "type": 0,
     "roninAddress": "ronin:96b974bce278dd532659d9c6c449fef62762a872",
     "playerRoninAddress": "ronin:8c61bb5f8a6cf1aa2f3af832f605692aca4f454b",
     "axies": ["plant:2301050", "reptile:1944825", "beast:864419"],
