@@ -79,7 +79,7 @@
   {
     "name": "Amieru",
     "team": "MAX",
-    "type": 1,
+    "type": 2,
     "roninAddress": "ronin:fd1d22c4a8616e237e7da5b7f97402304c10803f",
     "playerRoninAddress": "ronin:d2f6e4fbced512a1baade9c5611d80bee0c7eb59",
     "axies": ["plant:4725296", "reptile:558430", "beast:5166208"],
