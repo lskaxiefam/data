@@ -60,7 +60,7 @@
     "type": 1,
     "roninAddress": "ronin:d916319eb4438192d8dfcf8d70d26fba8aa3d377",
     "playerRoninAddress": "ronin:8a4bde7fa4e76e34477d5d6587091b82088ef911",
-    "axies": ["plant:1100494", "reptile:5828857", "dusk:5192625"],
+    "axies": ["plant:904751", "dusk:6159592", "mech:4096569"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
@@ -155,12 +155,12 @@
   },
   
   {
-    "name": "Starlord",
+    "name": "cram",
     "team": "MAX",
-    "type": 2,
+    "type": null,
     "roninAddress": "ronin:80692f8b99025a0d89e0761766b8d1b45b5c8f0b",
-    "playerRoninAddress": "ronin:c43c42174b2c7d05253dcebc52fcad5e71b60709",
-    "axies": ["plant:670835", "beast:4725636", "bird:3538767"],
+    "playerRoninAddress": "ronin:bc2426fe00e5a3d4171346d98489c2c30b335f60",
+    "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
     "offsetDays": null,
     "offsetSlp": 0
@@ -595,11 +595,11 @@
     "offsetSlp": 0
   },
   {
-    "name": "cram",
+    "name": "vacant",
     "team": "MAX",
-    "type": 1,
+    "type": 2,
     "roninAddress": "ronin:784a69cb51813b5ea50007d04c064c67fe2bab2e",
-    "playerRoninAddress": "ronin:bc2426fe00e5a3d4171346d98489c2c30b335f60",
+    "playerRoninAddress": "",
     "axies": ["plant:4722560", "reptile:2245155", "mech:6164047"],
     "rate": null,
     "offsetDays": null,
